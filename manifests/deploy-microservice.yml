@@ -20,7 +20,7 @@ spec:
                 source: demo
         spec:
             containers:
-                -   image: 702037529261.dkr.ecr.us-west-2.amazonaws.com/SpinnakerForce-microservice
+                -   image: 702037529261.dkr.ecr.us-west-2.amazonaws.com/spinnakerforce-microservice
                     name: spinnakerforce-microservice
                     ports:
                         -   name: web

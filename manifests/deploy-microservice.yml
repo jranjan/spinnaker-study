@@ -16,7 +16,7 @@ spec:
         metadata:
             labels:
                 app: spinnakerforce-microservice
-                run: fpinnakerforce-microservice
+                run: spinnakerforce-microservice
                 source: demo
         spec:
             containers:
